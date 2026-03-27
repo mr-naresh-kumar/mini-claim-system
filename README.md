@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mini Claim System Backend
 
 A Node.js + Express + MongoDB backend for managing employee claims with business rules and receipt uploads.
@@ -88,3 +89,7 @@ For production, do not use local MongoDB.
 
 ### 4. File Storage
 For a real production app, receipt uploads should be moved to **AWS S3** instead of local storage. You can update `uploadMiddleware.js` to use `multer-s3`.
+=======
+# mini-claim-system
+assignement
+>>>>>>> 150f31ed103c1a6c576b4c884dda837925f05786
